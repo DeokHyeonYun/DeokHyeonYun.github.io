@@ -1,6 +1,6 @@
 ---
 layout: single
-title:"arc언제끝나"
+title: "arc언제끝나"
 ---
 
 #환영
