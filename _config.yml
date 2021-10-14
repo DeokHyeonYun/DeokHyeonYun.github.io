@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "csv"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "무지성 노가다 담당"
+  bio              : "무지성 노가다+리액트..?"
   location         : "Korea,prison"
   email            : "21-20513@hafs.hr.kr"
   links:
