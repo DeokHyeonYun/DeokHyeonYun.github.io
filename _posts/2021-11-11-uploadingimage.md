@@ -13,5 +13,5 @@ layout: single
 내 아이유 최애곡  
 ---  
 ### ★ 스트로베리문 
-[![iu3](/assets/images/iu3.jpg "드가자 ")](https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_989721_16346219914820145.jpg)   
+[![iu3](/assets/images/iu3.jpg "드가자 ")](https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_989721_16346219914820145.jpg)  
 아이유 제일 최신곡
