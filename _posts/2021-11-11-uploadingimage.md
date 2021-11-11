@@ -8,8 +8,7 @@ layout: single
 노래개좋음 
 --- 
 ### ★ 삐삐 
-![iu2][favorite]
-[favorite]: https://w.namu.la/s/01219da3eeb2a79a93da691b360186e984720ca7c30dc13c605501257ec093ebb67e64ec0adeab4d12cc4efc955fddaa87a955609e1a814ca32c3cdee4b5864bc540027f724e0f45a719b780c0ab3b6a6e7aac6ad8573a4e9aa3f543664f7214
+![iu2][favorite]  [favorite]: https://w.namu.la/s/01219da3eeb2a79a93da691b360186e984720ca7c30dc13c605501257ec093ebb67e64ec0adeab4d12cc4efc955fddaa87a955609e1a814ca32c3cdee4b5864bc540027f724e0f45a719b780c0ab3b6a6e7aac6ad8573a4e9aa3f543664f7214
 내 아이유 최애곡 
 --- 
 ### ★ 스트로베리문 
