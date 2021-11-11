@@ -4,7 +4,7 @@ layout: single
 --- 
 아이유 데뷔 앨범
 ### ★ 미아 
-![iu1](/assets/images/iu1.jpg) 
+![iu1](/assets/images/iu1.jpg)  
 노래개좋음 
 --- 
 ### ★ 삐삐 
