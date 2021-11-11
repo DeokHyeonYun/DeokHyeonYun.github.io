@@ -14,5 +14,5 @@ https://w.namu.la/s/01219da3eeb2a79a93da691b360186e984720ca7c30dc13c605501257ec0
 내 아이유 최애곡 
 --- 
 ### ★ 스트로베리문 
-[![iu3](/assets/images/iu3.jpg "드가자 ")](https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_989721_16346219914820145.jpg) 
-  아이유 제일 최신곡
+[![iu3](/assets/images/iu3.jpg "드가자 ")](https://file.mk.co.kr/meet/neds/2021/10/image_readtop_2021_989721_16346219914820145.jpg)   
+아이유 제일 최신곡
