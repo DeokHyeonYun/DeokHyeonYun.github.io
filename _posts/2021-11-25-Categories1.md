@@ -12,7 +12,7 @@ toc_label: "페이지 주요 목차"
 이 때 표준오차는 추정값이며 신뢰구간은 전해지는 값이다.
 ~~~ 
 ### 02. 다중선형 회귀분석 
-![multiple linear](/assets/images/multiple linear.jpg) 
+![multiplelinear](/assets/images/multiplelinear.jpg) 
 ~~~c 
 종속적 결과변수가 2개 이상의 독립 변수에 의해 예측되는 회귀분석을 '다중선형회귀분석'이라고
 부른다. 독립변수는 연속성이거나 범주형 모두 가능하다. 돌립변수에 대한 회귀계수는 최소자승법
